@@ -1,6 +1,6 @@
 # GTST2S2A1
 
-Welcome! This repository includes four small tools for the assignment, each written to match one of the tasks below.
+Welcome! This repository includes four small tools for the GTSTS2 assignment, each written to match one of the tasks below.
 
 1. `Scan1.py` - A Python port scanner built without using the `nmap` module.
 2. `NmapScan.py` - A port scanner that uses the `python-nmap` module.
