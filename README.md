@@ -1,7 +1,5 @@
 # GTST2S2A1
 
-Last updated: June 6, 2026
-
 Welcome! This repository includes four small tools for the assignment, each written to match one of the tasks below.
 
 1. `Scan1.py` - A Python port scanner built without using the `nmap` module.
